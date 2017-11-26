@@ -1,0 +1,90 @@
+Options -Indexes -Multiviews +SymLinksIfOwnerMatch
+
+ErrorDocument 404 /error.php
+ErrorDocument 403 /error.php
+
+DirectoryIndex /index.php
+
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^/$ index.php
+RewriteRule ^services$ services.php
+RewriteRule ^decorating-redesign-staging-training$ decorating-redesign-staging-training.php
+RewriteRule ^about$ about.php
+RewriteRule ^contact$ contact.php
+RewriteRule ^contact-success$ contact-success.php
+RewriteRule ^special-offer$ special-offer.php
+RewriteRule ^special-offer-download$ special-offer-download.php
+
+Redirect 301 /Ann.htm http://www.roomsreborn.com/about
+Redirect 301 /calendar_redesign_staging_classes.htm http://www.roomsreborn.com/decorating-redesign-staging-training
+Redirect 301 /contact.htm http://www.roomsreborn.com/contact
+#Redirect 301 /index.htm http://www.roomsreborn.com/
+Redirect 301 /interior_redesign_art.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_bedding.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_decorating.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_education.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_fabric.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_flooring.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_furniture.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_homeaccents.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_homemaintenance.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_houseplans.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_kitchenbath.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_lighting.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_misc.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_moving.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_outdoors.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_rugs.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_slipcovers.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_windowtreatments.htm http://www.roomsreborn.com/services
+Redirect 301 /interior_redesign_woodworking.htm http://www.roomsreborn.com/services
+Redirect 301 /links.htm http://www.roomsreborn.com/
+Redirect 301 /services.htm http://www.roomsreborn.com/services
+Redirect 301 /sitemap.htm http://www.roomsreborn.com/
+Redirect 301 /tips_1.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_10.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_11.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_12.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_13.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_14.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_15.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_16.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_17.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_18.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_19.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_2.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_20.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_21.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_22.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_23.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_24.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_25.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_26.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_27.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_28.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_29.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_3.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_30.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_31.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_32.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_33.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_34.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_35.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_36.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_37.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_38.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_39.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_4.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_40.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_41.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_42.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_43.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_5.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_6.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_7.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_8.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips_9.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /tips.htm http://www.roomsreborn.com/special-offer
+Redirect 301 /training.htm http://www.roomsreborn.com/decorating-redesign-staging-training

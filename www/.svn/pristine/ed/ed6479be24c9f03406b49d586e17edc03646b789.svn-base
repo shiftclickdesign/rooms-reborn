@@ -1,0 +1,34 @@
+<div class="sidebar-block">
+	<h2>Be inspired, learn a new skill and create the home of your dreams!</h2>
+	<p>Rooms Reborn offers the following services to clients and interior decorators, designers and home stagers:</p>
+	<ul>
+		<li><span class="node">Interior Decorating</span>
+			<ul>
+				<li>Design Consultation</li>
+				<li>Project Management</li>
+				<li>Home Transitions</li>
+			</ul>
+		</li>
+		<li><span class="node">Interior Redesign</span>
+			<ul>
+				<li>The One-Day Redesign</li>
+				<li>Personal Shopping</li>
+			</ul>
+		</li>
+		<li><span class="node">Real Estate Staging</span>
+			<ul>
+				<li>Staging Consultation</li>
+				<li>Redesign for Real Estate</li>
+				<li>Vacant and Model Home Staging</li>
+				<li>How-To Manual for DIY Staging</li>
+			</ul>
+		</li>
+		<li><span class="node">Education and Career Training</span>
+			<ul>
+				<li>On-Site Seminars</li>
+				<li>Learning the Basics</li>
+				<li>Starting a New Career</li>
+			</ul>
+		</li>
+	</ul>
+</div>

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /js/
+Disallow: /img/
+Disallow: /css/
+Disallow: /error.php
+Disallow: /special-offer-download.php
+
+Sitemap: http://www.roomsreborn.com/sitemap.xml
