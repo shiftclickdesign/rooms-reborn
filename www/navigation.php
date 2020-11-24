@@ -2,7 +2,7 @@
 function getNavigation( $currentNav )
 {
 	echo '<ul>';
-	
+
 	if ( $currentNav == 'home' )
 	{
 		echo '<li class="current"><span>Home</span></li>';
@@ -13,7 +13,7 @@ function getNavigation( $currentNav )
 					<a href="/"><span>Home</span></a>
 				</li>';
 	}
-	
+
 	if ( $currentNav == 'services' )
 	{
 		echo '	<li class="current"><span>Services</span></li>';
@@ -25,20 +25,7 @@ function getNavigation( $currentNav )
 				</li>';
 	}
 
-	if ( $currentNav == 'decorating-redesign-staging-training' )
-	{
-		echo '	<li class="current"><span>Decorating, Redesign &amp; Staging Training</span></li>';
-	}
-	else
-	{
-		echo '	<li>
-					<a href="decorating-redesign-staging-training"><span>Decorating, Redesign &amp; Staging Training</span></a>
-				</li>';
-	}
-
-	echo '<li><a href="http://rooms-reborn.blogspot.com" target="_blank">Blog</a></li>';
-
-	if ( $currentNav == 'about' )
+		if ( $currentNav == 'about' )
 	{
 		echo '	<li class="current"><span>About Ann Anderson</span></li>';
 	}
@@ -59,7 +46,7 @@ function getNavigation( $currentNav )
 					<a href="contact"><span>Contact</span></a>
 				</li>';
 	}
-	
+
 	echo '</ul>';
 }
 ?>

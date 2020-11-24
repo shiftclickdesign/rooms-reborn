@@ -6,8 +6,6 @@
 		<ul>
 			<li><a href="/">Home</a></li>
 			<li><a href="services">Services</a></li>
-			<li><a href="decorating-redesign-staging-training">Decorating, Redesign &amp; Staging Training</a></li>
-			<li><a href="http://rooms-reborn.blogspot.com" target="_blank">Blog</a></li>
 			<li><a href="about">About Ann Anderson</a></li>
 			<li><a href="contact">Contact</a></li>
 		</ul>
