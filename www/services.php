@@ -10,6 +10,7 @@
 
 <?php include("headerEnd.php"); ?>
 
+<div class="content-wrapper">
 		<div id="main">
 			<h1>Rooms Reborn Services</h1>
 			<a name="interior-decorating"></a>
@@ -52,7 +53,8 @@
 		</div>
 		<div id="sidebar">
 			<?php include("sidebar-contact.htm");?>
-			<?php include("sidebar-hire-rooms-reborn.htm");?>
+			<!-- <?php include("sidebar-hire-rooms-reborn.htm");?> -->
 		</div>
+</div>
 
 <?php include("footer.php"); ?>

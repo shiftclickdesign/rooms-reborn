@@ -10,6 +10,7 @@
 
 <?php include("headerEnd.php"); ?>
 
+<div class="content-wrapper">
 		<div id="main">
 			<h1>Contact Rooms Reborn</h1>
 			<p>If you would like more information about any of my interior decorating, redesign or home or real estate staging services or you would like to speak with me personally about "Breathing New Life Into Your Home", please contact me using the form below:</p>
@@ -18,7 +19,7 @@
 		<div id="sidebar">
 			<?php include("sidebar-contact.htm");?>
 			<?php include("sidebar-hire-rooms-reborn.htm");?>
-			<?php include("sidebar-launch-your-career.htm");?>
 		</div>
+</div>
 
 <?php include("footer.php"); ?>

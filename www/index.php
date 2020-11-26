@@ -10,11 +10,12 @@
 <meta name="msvalidate.01" content="8F39DFD5E72EDAAA4DC346048578148B" />
 <?php include("headerEnd.php"); ?>
 
+<div class="content-wrapper">
 		<div id="main">
 			<h1>Rooms Reborn will inspire you to create the home of your dreams.</h1>
 			<h2>No matter what those dreams are!</h2>
-			<p>Whether it's providing you with ideas and inspiration to help you design and decorate your own home, doing the work for you to create your dream home, or providing you with hands-on training so that you can do it yourself&mdash;either for fun or profit&mdash;we can help!</p>
-			<p>Visit each of our four service areas below for more information.</p>
+			<p>Whether it's providing you with ideas and inspiration to help you design and decorate your own home, we can help!</p>
+			<p>Visit each of our three service areas below for more information.</p>
 		</div>
 		<div id="sidebar">
 			<div class="sidebar-offer">
@@ -22,7 +23,9 @@
 				<a href="special-offer" class="cta download"><span>Download Now!</span></a>
 			</div>
 		</div>
-		<div id="features" class="clearfix">
+</div>
+
+		<div id="features">
 			<div class="feature">
 				<div class="snapshot"><img src="img/interior-decorating-feature.png" alt=""/></div>
 				<h3>Interior Decorating</h3>
@@ -41,12 +44,12 @@
 				<p>If you're looking to sell your home or your home is already on the market, Rooms Reborn can help you to sell quickly and for top dollar. We turn browsers into buyers!</p>
 				<p><a href="services#real-estate-staging">Learn More</a></p>
 			</div>
-			<div class="feature">
+			<!-- <div class="feature">
 				<div class="snapshot"><img src="img/education-career-training-feature.png" alt=""/></div>
 				<h3>Education and Career Training</h3>
 				<p>If you would like to begin a business in a design-related field, add additional services to your current business or if you're simply interested in learning how to decorate and stage for your own pleasure, Rooms Reborn offers courses to suit your needs.</p>
 				<p><a href="services#career-training">Learn More</a></p>
-			</div>
+			</div> -->
 		</div>
-	
+
 <?php include("footer.php"); ?>

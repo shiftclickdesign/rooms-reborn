@@ -10,6 +10,7 @@
 
 <?php include("headerEnd.php"); ?>
 
+<div class="content-wrapper">
 		<div id="main">
 			<h1>About Ann Anderson</h1>
 			<p><img class="border" src="img/ann-anderson-photo-sepia.jpg" alt="Photo of Ann Anderson" align="right"/>After spending years working in corporate America, Ann began studying interior design through the Sheffield School of Interior Design in New York City. She also studied the then little-known fields of interior redesign and real estate staging. She realized her true calling when she started Rooms Reborn in 2001. Since then, Ann has developed a loyal following through her interior decorating, interior redesign, and real estate staging services, as well as through the many seminars and workshops she leads.</p>
@@ -24,5 +25,6 @@
 		<div id="sidebar">
 			<?php include("sidebar-services.htm");?>
 		</div>
+</div>
 	
 <?php include("footer.php"); ?>
