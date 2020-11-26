@@ -29,6 +29,6 @@
 	</div>
 <!-- 	<div class="column">footer column</div> -->
 </div>
-<div id="copyright">Copyright &copy;2013 Rooms Reborn. All rights reserved.</div>
+<div id="copyright">Copyright &copy;<?php echo date("Y");?> Rooms Reborn. All rights reserved.</div>
 </body>
 </html>
